@@ -1,16 +1,14 @@
-## Hi there 👋
+🚀 FacelessKV — Expert in Telegram Bots | 9+ Years of Experience | Automation & AI
 
-<!--
-**facelessKV/facelessKV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m a senior Python developer with 9 years of experience, specializing in Telegram bot development, business automation, and API integrations.
 
-Here are some ideas to get you started:
+✔️ Custom bots & ready-made solutions — from e-commerce and analytics to CRM and smart assistants.
+✔️ Clean, scalable code — ensuring reliability and performance.
+✔️ 20+ completed projects — work with a professional, not a beginner.
+✔️ API, payments, AI, databases — full integration for any business need.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Here, you’ll find 23 demo bots, showcasing my expertise and development approach.
+
+💼 Need a high-quality Telegram bot? Let’s discuss your project!
+
+📩 Contact: [Freelancehunt](https://freelancehunt.com/freelancer/yjycnjg12.html ) | Telegram: @internecinezp
